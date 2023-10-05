@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mohamed Anash A</h1>
-<h3 align="center">Student From India</h3>
+<h1 align="center">Hi 👋, This is Mohamed Anash A</h1>
+<h3 align="center">CSE Student From India</h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Inventory Management System**
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
