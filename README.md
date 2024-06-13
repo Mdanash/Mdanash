@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, This is Mohamed Anash A</h1>
 <h3 align="center">CSE Student From India</h3>
 
-- 🔭 I’m currently working on **Inventory Management System**
-
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
 - 📫 How to reach me **mohamedanash0404@gmail.com**
