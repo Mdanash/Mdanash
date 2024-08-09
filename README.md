@@ -5,7 +5,7 @@
 
 ## 🌟 About Me
 
-I'm Mohamed Anash A, a Computer Science and Engineering (CSE) student from India, passionate about Artificial Intelligence, Machine Learning, and Data Science. My journey in tech is fueled by curiosity and a desire to build impactful solutions using cutting-edge technologies.
+I'm Mohamed Anash A, A Computer Science and Engineering (CSE) student from India, passionate about Artificial Intelligence, Machine Learning, and Data Science. My journey in tech is fueled by curiosity and a desire to build impactful solutions using cutting-edge technologies.
 
 - 🎓 **Education**: Pursuing a degree in Computer Science and Engineering.
 - 💻 **Current Focus**: Learning Artificial Intelligence and Machine Learning.
@@ -37,7 +37,3 @@ I have gained valuable experience through internships at the following companies
 ## 🌐 Let's Connect
 
 Feel free to reach out to me via email or connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-anash). I'm always open to discussing new projects, collaborations, or opportunities to learn and grow in the field of AI and ML.
-
----
-
-"Learning never exhausts the mind." – Leonardo da Vinci
