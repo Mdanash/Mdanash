@@ -10,7 +10,7 @@ I'm Mohamed Anash A, A Computer Science and Engineering (CSE) student from India
 - 🎓 **Education**: Pursuing a degree in Computer Science and Engineering.
 - 💻 **Current Focus**: Learning Artificial Intelligence and Machine Learning.
 - 📫 **Contact**: mohamedanash0404@gmail.com
--  [![LinkedIn](https://img.icons8.com/?size=50&id=Pz213it3TQxp&format=png)](https://www.linkedin.com/in/mohamed-anash)
+-  [![LinkedIn](https://img.icons8.com/?size=70&id=67570&format=png&color=000000)](https://www.linkedin.com/in/mohamed-anash)
 
 ## 💼 Internships
 
@@ -37,4 +37,4 @@ I have gained valuable experience through internships at the following companies
 
 ## 🌐 Let's Connect
 
-Feel free to reach out to me via email or connect with me on [![LinkedIn](https://img.icons8.com/?size=50&id=Pz213it3TQxp&format=png)](https://www.linkedin.com/in/mohamed-anash). I'm always open to discussing new projects, collaborations, or opportunities to learn and grow in the field of AI and ML.
+Feel free to reach out to me via email or connect with me on [![LinkedIn](https://img.icons8.com/?size=70&id=67570&format=png&color=000000)](https://www.linkedin.com/in/mohamed-anash). I'm always open to discussing new projects, collaborations, or opportunities to learn and grow in the field of AI and ML.
