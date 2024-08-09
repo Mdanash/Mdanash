@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Mohamed Anash A!
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social) 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-anash)
+![GitHub followers](https://img.shields.io/github/followers/Mdanashlabel=Follow&style=social) 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-anash)
 
 ## 🌟 About Me
 
@@ -9,24 +9,31 @@ I'm Mohamed Anash A, a Computer Science and Engineering (CSE) student from India
 
 - 🎓 **Education**: Pursuing a degree in Computer Science and Engineering.
 - 💻 **Current Focus**: Learning Artificial Intelligence and Machine Learning.
-- 👨‍💻 **Internship**: Currently an intern at **Cognifyz Technologies**.
-- 📫 **Contact**: mohamedanash0404@gmail.com | [LinkedIn](https://www.linkedin.com/in/mohamed-anash)
+- 📫 **Contact**: mohamedanash0404@gmail.com | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-anash)
 
-## 💼 Experience
+## 💼 Internships
 
-During my internship at CodSoft, I had the opportunity to work on various projects:
+I have gained valuable experience through internships at the following companies:
 
-1. **Movie Genre Prediction**: Developed a machine learning model to predict movie genres based on plot summaries using techniques like TF-IDF and classifiers such as Naive Bayes, Logistic Regression, and Support Vector Machines.
-2. **Credit Card Fraud Detection**: Built a model to detect fraudulent credit card transactions using algorithms like Logistic Regression, Decision Trees, and Random Forests.
-3. **Customer Churn Prediction**: Developed a model to predict customer churn for subscription-based services using historical customer data and algorithms like Logistic Regression, Random Forests, and Gradient Boosting.
-4. **SMS Spam Detection**: Built an AI model to classify SMS messages as spam or legitimate using techniques like TF-IDF and classifiers like Naive Bayes, Logistic Regression, and Support Vector Machines.
+1. **CodSoft**: Worked on various projects including Movie Genre Prediction, Credit Card Fraud Detection, Customer Churn Prediction, and SMS Spam Detection using advanced machine learning techniques.
+2. **CodeAlpha**: Contributed to the development of innovative AI solutions, focusing on data analysis, machine learning models, and automation processes.
+3. **Cognifyz Technologies**: Currently working on real-world AI and ML applications, enhancing my skills in deep learning, data processing, and algorithm optimization.
 
-## 🚀 Projects & Interests
+## 🛠️ Skills & Technologies
 
-- **Chatbot Development**: Creating a chatbot that answers FAQs using NLP techniques and libraries like NLTK or SpaCy.
-- **Object Detection**: Developing a system for real-time object detection and tracking in video streams using deep learning models like YOLO or Faster R-CNN.
-- **Music Generation**: Working on AI-powered music generation capable of composing original music using deep learning techniques like RNNs or GANs.
+- **Programming Languages**: 
+  - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+  - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  
+- **Technologies & Frameworks**:
+  - ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0277BD?style=flat-square&logo=machine-learning&logoColor=white)
+  - ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-303F9F?style=flat-square&logo=artificial-intelligence&logoColor=white)
+  - ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=deep-learning&logoColor=white)
+  - ![IoT](https://img.shields.io/badge/-IoT-009688?style=flat-square&logo=internet-of-things&logoColor=white)
+  - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ## 🌐 Let's Connect
 
-Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-anash). I'm always open to discussing new projects, collaborations, or opportunities to learn and grow in the field of AI and ML.
+Feel free to reach out to me via email or connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-anash). I'm always open to discussing new projects, collaborations, or opportunities to learn and grow in the field of AI and ML.
