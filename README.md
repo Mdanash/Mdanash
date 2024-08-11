@@ -1,40 +1,40 @@
-# 👋 Hello, I'm Mohamed Anash A!
+# Mohamed Anash A
 
-![GitHub followers](https://img.shields.io/github/followers/Mdanash?label=Follow%20me&style=social) 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-anash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohamed-anash)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Mdanash)
+[![Email](https://img.shields.io/badge/Email-mohamedanash0404@gmail.com-red)](mailto:mohamedanash0404@gmail.com)
 
-## 🌟 About Me
+## 👨‍💻 About Me
 
-I'm Mohamed Anash A, A Computer Science and Engineering (CSE) student from India, passionate about Artificial Intelligence, Machine Learning, and Data Science. My journey in tech is fueled by curiosity and a desire to build impactful solutions using cutting-edge technologies.
+I am a passionate Computer Science and Engineering student from India, currently diving deep into the fields of Artificial Intelligence and Machine Learning. I am constantly learning and experimenting with new technologies to create innovative solutions.
 
-- 🎓 **Education**: Pursuing a degree in Computer Science and Engineering.
-- 💻 **Current Focus**: Learning Artificial Intelligence and Machine Learning.
-- 📫 **Contact**: mohamedanash0404@gmail.com
--  [![LinkedIn](https://img.icons8.com/?size=70&id=67570&format=png&color=000000)](https://www.linkedin.com/in/mohamed-anash)
+## 💼 Internship Experience
 
-## 💼 Internships
+- **Intern at Cognifyz Technologies**  
+  Gained hands-on experience in software development and AI/ML model building.
 
-I have gained valuable experience through internships at the following companies:
+- **Intern at CodSoft**  
+  Worked on developing machine learning models for various applications.
 
-1. **CodSoft**: Worked on various projects including Movie Genre Prediction, Credit Card Fraud Detection, Customer Churn Prediction, and SMS Spam Detection using advanced machine learning techniques.
-2. **CodeAlpha**: Contributed to the development of innovative AI solutions, focusing on data analysis, machine learning models, and automation processes.
-3. **Cognifyz Technologies**: Currently working on real-world AI and ML applications, enhancing my skills in deep learning, data processing, and algorithm optimization.
+- **Intern at CodeAlpha**  
+  Engaged in projects that involved advanced AI and deep learning techniques.
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technologies & Skills
 
-- **Programming Languages**: 
-  - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-  - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  
-- **Technologies & Frameworks**:
-  - ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0277BD?style=flat-square&logo=machine-learning&logoColor=white)
-  - ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-303F9F?style=flat-square&logo=artificial-intelligence&logoColor=white)
-  - ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=deep-learning&logoColor=white)
-  - ![IoT](https://img.shields.io/badge/-IoT-009688?style=flat-square&logo=internet-of-things&logoColor=white)
-  - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-  - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=flat-square)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-blue?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange?style=flat-square)
+![IoT](https://img.shields.io/badge/IoT-lightgrey?style=flat-square)
 
-## 🌐 Let's Connect
+## 📫 Let's Connect
 
-Feel free to reach out to me via email or connect with me on [![LinkedIn](https://img.icons8.com/?size=70&id=67570&format=png&color=000000)](https://www.linkedin.com/in/mohamed-anash). I'm always open to discussing new projects, collaborations, or opportunities to learn and grow in the field of AI and ML.
+- [![LinkedIn](https://img.icons8.com/?size=40&id=447&format=png&color=000000)](https://www.linkedin.com/in/mohamed-anash)  
+  Connect with me on LinkedIn to stay updated with my latest projects and experiences.
+
+- [![Email](https://img.icons8.com/?size=40&id=124218&format=png&color=000000)](mailto:mohamedanash0404@gmail.com)  
+  Feel free to reach out to me via email for any inquiries or collaborations.
